@@ -1,0 +1,2 @@
+enum TodoType { add, update }
+
